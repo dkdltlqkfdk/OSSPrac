@@ -10,6 +10,7 @@ int main(){
     std::cout<<"학번을 입력하세요: ";
     std::cin>>yun.grade;
     std::cout<<"\n\n";
+    
     std::cout<<"<출력>"<<std::endl;
     std::cout<<"이름: "<<yun.name<<std::endl;
     std::cout<<"학번: "<<yun.grade<<std::endl;
